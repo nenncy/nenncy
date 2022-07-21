@@ -6,7 +6,7 @@
    SOFTWARE DEVELOPER | MACHINE LEARNING AND DATA SCIENCE PRACTITIONER 👩‍💻
 
 - 💡 I'm passionate about learning new skills and technologies to enhance my knowledge in CS.
-- 🌱 I’m on trake for learning flutter, Machine learning and Ai.
+- 🌱 I’m on trake for learning Node js, flutter, Machine learning and Ai.
 - 💬 For reaching me out mail me here [nencyvpatel3010@gmail.com](mailto:nencyvpatel3010@gmail.com?)
 
 
