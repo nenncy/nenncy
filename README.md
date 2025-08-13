@@ -37,11 +37,6 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)
 
- 
-
-## 📈 GitHub Stats
-![nenncy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenncy&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nency-patel-68aa751a0/)
 - [Personal Website/Blog](https://portfolio-eight-orcin-51.vercel.app/)
